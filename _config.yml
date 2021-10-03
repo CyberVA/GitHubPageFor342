@@ -1,2 +1,9 @@
 title: Welcome to my portfolio!
+author: CyberVA
 theme: jekyll-theme-cayman
+description: >
+  Here's a cool description for this website that is an assignment for 342!!!
+
+github_username: cyberVA
+
+show_excerpts: true
