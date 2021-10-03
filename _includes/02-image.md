@@ -1,1 +1,1 @@
-![Image of something?](https://octodex.github.com/images/yaktocat.png)
+![MyDogRonin!](https://i.imgur.com/Leb5WU4.png)
